@@ -52,9 +52,6 @@ optional arguments:
                         Output PNG file
 ```
 #### Sample Usage #1
-
-Extract text from image url
-
 ```
 python3 cover.py -n Jayson -c yellow -a Philippines -e mkdirlove@lspu.edu.ph -s "San Buenaventura" --sdt +639657032133 -o output.png
 ```
