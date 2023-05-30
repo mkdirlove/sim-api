@@ -53,5 +53,5 @@ optional arguments:
 ```
 #### Sample Usage #1
 ```
-python3 cover.py -n Jayson -c yellow -a Philippines -e mkdirlove@lspu.edu.ph -s "San Buenaventura" --sdt +639657032133 -o output.png
+python3 sim.py -n Jayson -c yellow -a Philippines -e mkdirlove@lspu.edu.ph -s "San Buenaventura" --sdt +639657032133 -o output.png
 ```
